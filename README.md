@@ -64,11 +64,7 @@
 
 ## 📫 Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kat31kat10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaito-saito)
-
-</div>
+- 📧 **Email:** [kat31kat10@gmail.com](mailto:kat31kat10@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kaito-saito](https://linkedin.com/in/kaito-saito)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
