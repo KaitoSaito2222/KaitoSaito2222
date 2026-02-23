@@ -48,7 +48,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white)
 
 ### ☁️ Cloud & DevOps
