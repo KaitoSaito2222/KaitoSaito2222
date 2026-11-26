@@ -1,15 +1,6 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaito%20Saito&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=60&descSize=20)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;5%2B+years+of+experience;AI+%7C+Education+%7C+Blockchain+%7C+E-commerce)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 👋 About Me
 
-- 🔭 Full Stack Engineer & **Project Lead** with **5+ years** of professional experience across **Banking, AI, Education, Blockchain & E-commerce** industries
+- 🔭 Full Stack Engineer with **5+ years** of professional experience across **Banking, AI, Education, Blockchain & E-commerce** industries
 - 🎓 Programming instructor with **20+ students** taught in full-stack technologies
 - 📫 Reach me at **kat31kat10@gmail.com**
 
