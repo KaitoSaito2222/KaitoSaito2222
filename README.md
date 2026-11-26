@@ -12,7 +12,6 @@
 
 - 🔭 Full Stack Engineer & **Project Lead** with **5+ years** of professional experience across **Banking, AI, Education, Blockchain & E-commerce** industries
 - 🎓 Programming instructor with **20+ students** taught in full-stack technologies
-- 📍 Based in **Canada**
 - 📫 Reach me at **kat31kat10@gmail.com**
 
 ---
