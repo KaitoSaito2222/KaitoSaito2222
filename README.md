@@ -64,5 +64,3 @@
 - 🌐 **Portfolio:** [kaitosaito.vercel.app](https://kaitosaito.vercel.app)
 - 📧 **Email:** [kat31kat10@gmail.com](mailto:kat31kat10@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/kaito-saito](https://linkedin.com/in/kaito-saito)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
